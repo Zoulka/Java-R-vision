@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class ExoArraylist {
     public static void main(String[] args) {
-        ArrayList<String> Recensemment = new ArrayList<>();
+        ArrayList<String> Recensemment = new ArrayList<String>();
 
 Recensemment.add("Moussa");
 Recensemment.add("Guide");
